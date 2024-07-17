@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gensim">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lecture/Gensim.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
